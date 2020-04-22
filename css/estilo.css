@@ -1,0 +1,95 @@
+.google {text-decoration: none;
+         color: #000000;
+         font-family: Verdana;
+}
+
+.google:hover{color:#f00;
+              font-weight: bold;
+}
+              
+.google:active{color:#0f0;
+              font-weight: bold;
+}
+
+.google:visited{color:#00f;
+               font-style:italic;
+}
+
+.youtube {text-decoration: none;
+          color: #c0c0c0;
+          font-size: 16px;
+          font-family: monospace;
+}
+       
+.youtube:hover{color:#eeff22;
+              font-weight: bold;
+              font-size: 20px;
+}
+              
+.youtube:active{color:#55bbe1;
+                font-weight: bold;
+}
+
+.facebook {text-decoration: none;
+  color: #030390;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+.facebook:hover {color:#1717d4;
+        font-style:italic;
+        font-size: 22px;
+}
+     
+.facebook:active {color:#232361;
+         font-weight: bold;
+}
+
+.americanas {text-decoration: none;
+           color: #ee0000;
+           font-size: 18px;
+           font-family: sans-serif;
+}
+       
+.americanas:hover {color:#530808;
+                 font-style:italic;
+                 font-size: 22px;
+}
+              
+.americanas:active {color:#4d1414;
+                  font-weight: bold;
+}
+
+.kabum {text-decoration: none;
+  color: #eb7d00;
+  font-family: Verdana;
+}
+
+.kabum:hover{color:rgb(250, 122, 62);
+       font-weight: bold;
+}
+       
+.kabum:active{color:rgb(122, 58, 6);
+       font-weight: bold;
+}
+
+.kabum:visited{color:rgb(255, 102, 0);
+        font-style:italic;
+}
+
+.amazon {text-decoration: none;
+  color: #eb7d00;
+  font-family: Verdana;
+}
+
+.amazon:hover{color:rgb(5, 19, 100);
+       font-weight: bold;
+}
+       
+.amazon:active{color:rgb(60, 58, 223);
+       font-weight: bold;
+}
+
+.amazon:visited{color:rgb(48, 53, 93);
+        font-style:italic;
+}
